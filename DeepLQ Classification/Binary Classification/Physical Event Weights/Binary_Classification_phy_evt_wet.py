@@ -45,17 +45,6 @@ www = 0.0000763371
 wzz = 0.00001226183
 
 
-s1 = 1.49365004749e-05
-s2 = 1.93210659898e-05
-s3 = 8.57084357084e-07
-s4 = 7.67977184763e-08
-s5 = 9.46464646465e-09
-s6 = 1.41248720573e-09
-s7 = 2.28928199792e-10
-s8 = 3.89424062308e-11
-
-
-
 from sklearn.model_selection import train_test_split
 
 '''Reading data from text files'''
