@@ -125,23 +125,23 @@ lq_column = ["mass_jet1", "mass_jet2","mass_jet3","mass_jet4", "Jet1_pt", "Jet2_
 
 
 
-WW = pd.DataFrame(WW_arr, columns=lq_column2)
-WZ = pd.DataFrame(WZ_arr, columns=lq_column2)
-ZZ = pd.DataFrame(ZZ_arr, columns=lq_column2)
-DY = pd.DataFrame(DY_arr, columns=lq_column2)
-ST_1 = pd.DataFrame(ST1_arr, columns=lq_column2)
-ST_2 = pd.DataFrame(ST2_arr, columns=lq_column2)
-ST_3 = pd.DataFrame(ST3_arr, columns=lq_column2)
-ST_4 = pd.DataFrame(ST4_arr, columns=lq_column2)
-TT = pd.DataFrame(TT_arr, columns=lq_column2)
+WW = pd.DataFrame(WW_arr, columns=lq_column)
+WZ = pd.DataFrame(WZ_arr, columns=lq_column)
+ZZ = pd.DataFrame(ZZ_arr, columns=lq_column)
+DY = pd.DataFrame(DY_arr, columns=lq_column)
+ST_1 = pd.DataFrame(ST1_arr, columns=lq_column)
+ST_2 = pd.DataFrame(ST2_arr, columns=lq_column)
+ST_3 = pd.DataFrame(ST3_arr, columns=lq_column)
+ST_4 = pd.DataFrame(ST4_arr, columns=lq_column)
+TT = pd.DataFrame(TT_arr, columns=lq_column)
 TT_arr = 0
-LQ50 = pd.DataFrame(LQ50_arr, columns=lq_column2)
-LQ80 = pd.DataFrame(LQ80_arr, columns=lq_column2)
-LQ110 = pd.DataFrame(LQ110_arr, columns=lq_column2)
-LQ140 = pd.DataFrame(LQ140_arr, columns=lq_column2)
-LQ170 = pd.DataFrame(LQ170_arr, columns=lq_column2)
-LQ200 = pd.DataFrame(LQ200_arr, columns=lq_column2)
-LQ230 = pd.DataFrame(LQ230_arr, columns=lq_column2)
+LQ50 = pd.DataFrame(LQ50_arr, columns=lq_column)
+LQ80 = pd.DataFrame(LQ80_arr, columns=lq_column)
+LQ110 = pd.DataFrame(LQ110_arr, columns=lq_column)
+LQ140 = pd.DataFrame(LQ140_arr, columns=lq_column)
+LQ170 = pd.DataFrame(LQ170_arr, columns=lq_column)
+LQ200 = pd.DataFrame(LQ200_arr, columns=lq_column)
+LQ230 = pd.DataFrame(LQ230_arr, columns=lq_column)
 
 
 
