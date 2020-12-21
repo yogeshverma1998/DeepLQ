@@ -1,8 +1,8 @@
 # DeepLQ
-DNN-based novel reconstruction and classification approaches in the search for LQs → bτ. Work is submitted as a CMS Experiment Internal Analysis Note-2020. 
+DNN-based novel reconstruction and classification approaches in the search for LQs → bτ. Work is submitted as a CMS Experiment Internal Analysis Note-2020 :page_facing_up:. 
 
 # Data
-Data is generated from official CMSSW 10.2.10  Monte Carlo (MC) Simulator with the data sample (2016) of pp collisions at a √s = 13 TeV
+Data is generated from official CMSSW 10.2.10  Monte Carlo (MC) Simulator with the data sample (2016) of pp collisions :sparkle: at a √s = 13 TeV
 
 
 # Required Libraries
